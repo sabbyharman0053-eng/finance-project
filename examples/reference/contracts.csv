@@ -1,0 +1,5 @@
+vendor_name,item_key,unit_rate,expected_gst_rate,expected_hsn_code
+FastLogistics,freight lane a,1200,18,9965
+FastLogistics,fuel surcharge,0,18,9965
+MetalWorks,steel coil grade a,55000,18,7208
+BrandSpark,digital campaign management,85000,18,998361
